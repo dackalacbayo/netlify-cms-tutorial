@@ -1,7 +1,7 @@
 import React from "react"
 
 const Layout = () => (
-  <div>Hellos world!</div>
+  <div>Hi world!</div>
 )
 
 export default Layout
