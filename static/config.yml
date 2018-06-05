@@ -2,7 +2,7 @@ backend:
   name: github
   repo: dackalacbayo/netlify-cms
 
-media_folder: static/assets
+media_folder: static/assets/images
 public_folder: assets
 
 collections:
