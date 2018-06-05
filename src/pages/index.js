@@ -1,3 +1,7 @@
 import React from "react"
 
-export default () => <div>Hellos world!</div>
+const Layout = () => (
+  <div>Hellos world!</div>
+)
+
+export default Layout
